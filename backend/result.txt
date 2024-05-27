@@ -1,0 +1,66 @@
+# Skill Analyzer Report - Aditya Maurya
+
+This report provides an analysis of the technical skills presented in the resume of Aditya Maurya, with recommendations for potential areas of improvement. The comparison is based on a comprehensive set of skills expected for an AI Engineer.
+
+## Technical Exposure
+
+### Strengths
+
+* Proficient in Python, which is a widely-used programming language in AI and data science.
+* Experience in AI frameworks LangChain and Llama Index.
+* Familiarity with various database technologies, including Vector Databases, Graph Database, SQL, MongoDB, Postgres, and Redis.
+* Knowledge of Cloud Technologies like Azure and AWS.
+* Hands-on experience with Development Tools such as Git and Docker.
+* Basic understanding of Data Structures & Algorithms and System Designing.
+
+### Recommended Areas of Improvement
+
+* Learn additional programming languages like R, Java, C++, and Scala to increase flexibility in solving various AI problems.
+* Explore other Machine Learning Frameworks such as TensorFlow, PyTorch, Scikit-learn, and Keras to broaden knowledge and experience in ML algorithms.
+* Gain experience in Deep Learning Libraries like Theano, Caffe, Torch, Lasagne, and Blocks to improve skills in neural network architecture design.
+* Familiarize with Data Analysis & Visualization Tools like Pandas, NumPy, Matplotlib, Seaborn, and ggplot for better data manipulation and visualization.
+* Learn Big Data Processing tools like Apache Hadoop, Apache Spark, Apache Flink, Apache Storm, and Apache Kafka for handling large-scale data.
+* Get acquainted with other Databases & Data Warehousing systems like PostgreSQL, MySQL, and NoSQL to expand expertise in data management.
+* Learn Data Manipulation & Wrangling techniques, such as ETL, data cleaning, data preprocessing, and feature engineering to improve data processing skills.
+* Study Natural Language Processing libraries like NLTK, spaCy, Gensim, CoreNLP, and TextBlob to enhance NLP capabilities.
+* Familiarize with Optimization Techniques like Gradient Descent, Stochastic Gradient Descent, Adam Optimization, optimization algorithms, and hyperparameter tuning for better model optimization.
+
+## Professional Experience
+
+### Strengths
+
+* Aditya has gained 1.8 years of professional experience in AI development at Celebal Technologies, demonstrating a consistent career growth.
+* Strong experience working with Python, Langchain, Azure App Service, Azure Table Storage, Azure Blob Storage, Azure Cosmos DB, Azure DevOps, and Azure OpenAI in various projects.
+* Successfully led the development of an intelligent application for Tata Motors, enhancing decision-making capabilities.
+
+### Recommended Areas of Improvement
+
+* Work on diversifying project experience by working with different companies and teams to expand the understanding of various development environments and practices.
+* Learn additional programming languages, frameworks, and libraries to become a more versatile developer.
+* Collaborate with other developers and teams to learn and adopt new development practices, tools, and techniques.
+
+## Projects
+
+### Strengths
+
+* Aditya has worked on two significant projects during his time at Celebal Technologies, showcasing his expertise in AI development.
+* Successfully implemented OCR, metadata generation, and agent creation for the Intelligent Solution Application for Kuok Group.
+* Led the development of an intelligent application for Tata Motors, empowering the company with intelligent query resolution.
+
+### Recommended Areas of Improvement
+
+* Document and present projects more extensively, highlighting key achievements, technical challenges, and problem-solving strategies to demonstrate expertise in AI development.
+* Share projects in public forums or publish them in blogs, open-source platforms, or conferences to build a strong professional reputation.
+
+## Education
+
+### Strengths
+
+* Aditya has completed a Bachelor of Technology in Computer Science and Engineering with a CGPA of 9.2, showing strong academic performance.
+
+### Recommended Areas of Improvement
+
+* Pursue higher education or certifications in AI, machine learning, or data science to further enhance technical skills and knowledge.
+* Participate in online courses, workshops, or seminars related to AI and data science to stay updated on the latest developments and techniques.
+
+In summary, Aditya Maurya demonstrates a solid foundation in AI development with Python and various AI frameworks, database technologies, and cloud platforms. However, further improvement could be made by gaining experience in other programming languages, ML frameworks, deep learning libraries, data analysis & visualization tools, and other relevant skills mentioned in the report. Continuously learning and expanding the skillset is crucial for a successful AI Engineering career.
